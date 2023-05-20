@@ -1,2 +1,2 @@
 # Kaggle
-Data &amp; solutions to some Kaggle competitions. 
+Solutions (&amp; data) to some Kaggle competitions. 
