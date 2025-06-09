@@ -1,2 +1,1 @@
-# Kaggle
-Solutions (&amp; data) to some Kaggle competitions. 
+Solution to Kaggle competition: House Prices - Advanced Regression Techniques
